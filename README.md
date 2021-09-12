@@ -1,4 +1,11 @@
-Меня зовут Зиновьев Алексей.
+Меня зовут Зиновьев Алексей. Я изучаю и практикую веб-разработку с 2019 года.
+
+Имею пройденные курсы/изученные книги:
+1. Интерактивный курс "PHP для начинающих", https://ru.code-basics.com
+2. Курс по книге: «Самоучитель PHP 7», Максим Кузнецов, Игорь Симдянов
+3. Курс по книге: «PHP 7. В подлиннике», Игорь Симдянов, Дмитрий Котеров
+4. Курсы: "PHP: Основы, Жизнь программиста", "Введение в веб-разработку", "Основы командной строки, Системы контроля версий (GIT)", "PHP: Настройка окружения, Ключевые аспекты веб-разработки на PHP", https://ru.hexlet.io
+5. Курсы: "HTML Fundamentals", "CSS Fundamentals", "JavaScript Tutorial", "Python 3 Tutorial", "SQL Fundamentals", "jQuery Tutorial", https://www.sololearn.com
 
 <!--
 **al-zv/al-zv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
