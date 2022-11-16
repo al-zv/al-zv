@@ -2,7 +2,7 @@
 
 Проекты на Laravel:
 - Chirp
-- <a href="https://github.com/al-zv/secret_santa">REST API для анонимного блога</a>
+- <a href="https://github.com/al-zv/macro">REST API для анонимного блога</a>
 - Bboard
 - <a href="https://github.com/al-zv/secret_santa">Реализация логики работы игры "Тайный санта".</a>
 
