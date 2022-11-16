@@ -7,7 +7,7 @@
 Мой стек:
 - PHP 7.4.29
 - MODX 2.8.3
-- Laravel
+- Laravel 8
 - Yii 2
 - MariaDB Ver. 15.1 Distrib. 10.5.17 (MySQL)
 - Linux (Cent OS)
