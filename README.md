@@ -3,7 +3,8 @@
 Проекты на Laravel:
 - <a href="https://github.com/al-zv/chat">Проект чат</a>
 - <a href="https://github.com/al-zv/macro">REST API для анонимного блога</a>
-- Bboard
+- <a href="https://github.com/al-zv/bboard">Проект "Доска объявлений"</a>
+- 
 - <a href="https://github.com/al-zv/secret_santa">Реализация логики работы игры "Тайный санта".</a>
 
 Работа с базами данных:
