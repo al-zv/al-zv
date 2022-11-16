@@ -4,14 +4,10 @@
 
 Проекты на Laravel:
 
-Chirp
-
-REST API для анонимного блога
-
-Bboard
-
-<a href="https://github.com/al-zv/secret_santa">Реализация логики работы игры "Тайный санта".</a>
-
+- Chirp
+- REST API для анонимного блога
+- Bboard
+- <a href="https://github.com/al-zv/secret_santa">Реализация логики работы игры "Тайный санта".</a>
 
 Работа с базами данных:
 
