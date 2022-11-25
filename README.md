@@ -1,6 +1,7 @@
-Меня зовут Зиновьев Алексей.
+Привет! Меня зовут Зиновьев Алексей.
 
 Проекты на Laravel:
+- <a href="https://github.com/al-zv/parser">Проект "Парсинг пользователей с VK"</a>
 - <a href="https://github.com/al-zv/chat">Проект "Чат"</a>
 - <a href="https://github.com/al-zv/macro">REST API для анонимного блога</a>
 - <a href="https://github.com/al-zv/bboard">Проект "Доска объявлений"</a>
